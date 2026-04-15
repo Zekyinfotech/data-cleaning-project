@@ -1,0 +1,21 @@
+CustomerID,Name,Age,Email,Gender,Salary,Country,JoinDate,PurchaseAmt,SpendCategory
+101,Alice Johnson,25.0,alice@gmail.com,Female,50000.0,USA,2021-03-15,250.50,Medium
+102,Bob Smith,32.0,bob@yahoo.com,Male,62000.0,USA,2020-07-22,430.00,Medium
+103,Carol White,31.0,carol@gmail.com,Female,75000.0,UK,,377.80,Medium
+104,David Brown,45.0,david@hotmail.com,Male,80000.0,CANADA,2022-01-10,980.75,High
+105,Emma Davis,28.0,emma@gmail.com,Female,45000.0,USA,2021-11-05,125.00,Low
+106,Frank Miller,31.0,,Male,58000.0,UK,2020-06-18,560.20,Medium
+107,Grace Wilson,35.0,grace@gmail.com,Female,92000.0,AUSTRALIA,,1200.00,Premium
+108,Henry Moore,22.0,henry@gmail.com,Male,37000.0,USA,2023-02-14,89.99,Low
+109,Isla Taylor,31.0,isla@gmail.com,Female,59000.0,CANADA,2021-07-01,345.60,Medium
+110,Jack Anderson,40.0,jack@yahoo.com,Male,70000.0,USA,2020-12-25,678.30,High
+111,Alice Johnson,25.0,alice@gmail.com,Female,50000.0,USA,2021-03-15,250.50,Medium
+112,Karen Thomas,29.0,karen@gmail.com,Female,55000.0,UK,2022-08-19,410.00,Medium
+113,Liam Jackson,31.0,liam@gmail.com,Male,48000.0,AUSTRALIA,2020-04-11,95.00,Low
+114,Mia Harris,50.0,mia@hotmail.com,Female,88000.0,CANADA,2021-10-03,1540.00,Premium
+115,Noah Martin,33.0,noah@gmail.com,Male,63000.0,USA,2019-05-17,320.00,Medium
+116,Olivia Lee,27.0,olivia@gmail.com,Female,59000.0,USA,2023-06-20,377.80,Medium
+117,Peter King,31.0,peter@gmail.com,Male,77000.0,UK,2020-11-08,870.00,High
+118,Quinn Scott,38.0,quinn@gmail.com,Male,42000.0,AUSTRALIA,2022-03-29,160.00,Low
+119,Rachel Hall,24.0,rachel@gmail.com,Female,53000.0,CANADA,2021-09-14,290.50,Medium
+120,Sam Allen,31.0,,Male,60000.0,USA,2020-01-07,530.00,Medium
