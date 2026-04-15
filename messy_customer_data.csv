@@ -1,0 +1,21 @@
+CustomerID,Name,Age,Email,Gender,Salary,Country,JoinDate,PurchaseAmt
+101,Alice Johnson,25,alice@gmail.com,Female,50000,USA,2021-03-15,250.50
+102,  bob smith,32,bob@yahoo.com,Male,62000,usa,2020/07/22,430.00
+103,CAROL WHITE,,carol@gmail.com,Female,75000,UK,15-08-2019,
+104,David Brown,45,DAVID@HOTMAIL.COM,Male,80000,Canada,2022-01-10,980.75
+105,Emma Davis,28,emma@gmail.com,Female,45000,USA,2021-11-05,125.00
+106,Frank miller,300,frank_miller.com,Male,58000,uk,2020-06-18,560.20
+107,Grace Wilson,35,grace@gmail.com,Female,92000,Australia,2019/09/30,1200.00
+108,  Henry Moore,22,henry@gmail.com,male,37000,USA,2023-02-14,89.99
+109,Isla Taylor,,isla@gmail.com,Female,,Canada,2021-07-01,345.60
+110,Jack Anderson,40,jack@yahoo.com,Male,70000,USA,2020-12-25,678.30
+111,Alice Johnson,25,alice@gmail.com,Female,50000,USA,2021-03-15,250.50
+112,Karen Thomas,29,karen@gmail.com,Female,55000,uk,2022-08-19,410.00
+113,Liam Jackson,-5,liam@gmail.com,Male,48000,Australia,2020-04-11,95.00
+114,MIA HARRIS,50,mia@hotmail.com,female,88000,Canada,2021-10-03,1540.00
+115,Noah Martin,33,noah@gmail.com,Male,63000,USA,2019-05-17,320.00
+116,Olivia Lee,27,olivia@gmail.com,Female,,USA,2023-06-20,
+117,Peter King,,peter@gmail.com,Male,77000,UK,2020-11-08,870.00
+118,   quinn scott,38,quinn@gmail.com,Male,42000,australia,2022-03-29,160.00
+119,Rachel Hall,24,rachel@gmail.com,Female,53000,Canada,2021-09-14,290.50
+120,Sam Allen,31,sam@,male,60000,USA,2020-01-07,530.00
